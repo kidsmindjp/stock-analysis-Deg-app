@@ -1,0 +1,17 @@
+{
+  "name": "株価分析アプリ",
+  "short_name": "株価分析",
+  "description": "Streamlitによる株価分析ツール",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4b4b",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/kidsmindjp/stock-analysis-app/main/kabuS/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
