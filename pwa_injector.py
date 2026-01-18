@@ -176,3 +176,6 @@ if submit_btn and ticker_code:
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.error("データが取得できませんでした。")
+
+st.divider()
+st.caption("免責事項：本アプリは投資助言を行うものではありません。実際の投資判断はご自身の責任で行ってください。")
